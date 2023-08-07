@@ -1,4 +1,4 @@
-import styled, { keyframes } from "styled-components";
+import style, { keyframes } from "styled-components";
 
 const spinLogo = keyframes`
   from {
@@ -9,7 +9,7 @@ const spinLogo = keyframes`
   }
 `;
 
-export const Container = styled.div`
+export const Container = style.div`
   text-align: center;
 
   img {
@@ -22,7 +22,7 @@ export const Container = styled.div`
   }
 `;
 
-export const Header = styled.header`
+export const Header = style.header`
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
