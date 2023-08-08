@@ -10,6 +10,7 @@ function App() {
         <p>Hi, Javascript!</p>
         <p>something...</p>
         <p>something 2</p>
+        <p>feat branch에서 추가한 부분</p>
       </S.Header>
     </S.Container>
   );
