@@ -7,7 +7,9 @@ function App() {
       <S.Header>
         <img src={logo} className="App-logo" alt="logo" />
         <p>Hi, React!</p>
+        <p>Hi, Javascript!</p>
         <p>something...</p>
+        <p>something 2</p>
       </S.Header>
     </S.Container>
   );
