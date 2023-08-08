@@ -10,7 +10,6 @@ function App() {
         <p>Hi, Javascript!</p>
         <p>something...</p>
         <p>something 2</p>
-        <p>feature/sample</p>
       </S.Header>
     </S.Container>
   );
