@@ -1,9 +1,3 @@
-body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+@charset "utf-8";
 
-ul li {
-  list-style: none;
-}
+@import url("reset.css");
